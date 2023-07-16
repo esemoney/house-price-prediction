@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "house-price-prediction"
+version = "0.1.0"
+description = "Compare regression techniques for predicting house prices for a kaggle competition."
+authors = ["Eseoghene <efekodoeseoghene@gmail.com>"]
+readme = "README.md"
+packages = [{include = "house_price_prediction"}]
+
+[tool.poetry.dependencies]
+python = "^3.8" 
+pandas = "^1.4.2"
+scikit-learn = "^1.0.2" 
+matplotlib = "^3.5.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
