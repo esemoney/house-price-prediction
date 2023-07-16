@@ -1,7 +1,7 @@
 # house-price-prediction
 
 
-## ML Internship Assignment 1 - House Price Prediction
+## ML Assignment 1 - House Price Prediction
 
 **Introduction**
 This project aims to predict house prices on the Ames housing dataset from Kaggle using regression techniques. The emphasis is on following best practices like:
