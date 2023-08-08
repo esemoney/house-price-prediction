@@ -1,4 +1,8 @@
 # .gitignore
 
+notes/
+v1/
 data_details/
 *.csv
+
+.ipynb_checkpoints
