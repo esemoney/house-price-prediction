@@ -4,5 +4,6 @@ notes/
 v1/
 data_details/
 *.csv
-
+notebooks/
+*.md
 .ipynb_checkpoints
