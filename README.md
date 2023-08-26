@@ -3,7 +3,7 @@
 
 ## ML Assignment 1 - House Price Prediction
 
-**Introduction**
+### Introduction
 This project aims to predict house prices on the Ames housing dataset from Kaggle using regression techniques. The emphasis is on following best practices like:
 
 - Git version control and GitHub flow
